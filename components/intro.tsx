@@ -15,7 +15,7 @@ export default function Intro() {
         animate={{ x: 0, opacity: 1 }}
         transition={{ duration: 0.8, type: "tween" }}
       >
-        Hi, I'm <span className="font-bold text-blue-500">Suvasis</span>, a{" "}
+        Hi, I&apos;m <span className="font-bold text-blue-500">Suvasis</span>, a{" "}
         <span className="font-bold text-blue-500">Fullstack Developer</span>{" "}
         based in India. I love building real world applications.
       </motion.p>
